@@ -1,4 +1,3 @@
-# Playing Cards: Classic Game of War!
 using PlayingCards
 
 function game()

@@ -1,4 +1,3 @@
-# Playing Cards: Module Definition
 module PlayingCards
 
 export Suit,   ♣,       ♢,      ♡,      ♠

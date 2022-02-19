@@ -1,4 +1,3 @@
-# Playing Cards: Unit Tests
 using Test
 using PlayingCards
 

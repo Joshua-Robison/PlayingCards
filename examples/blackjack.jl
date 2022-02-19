@@ -1,4 +1,3 @@
-# Playing Cards: Basic Blackjack!
 using PlayingCards
 
 function game()
